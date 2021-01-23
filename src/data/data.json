@@ -1,0 +1,125 @@
+{
+    "Header": {
+
+        "title": "IndiCali",
+        "paragraph": ""
+
+    },
+    "About": {
+        "paragraph": "First and foremost people’s company. Indicali is a soecial purpose private partnership\nWHO formed for effecting an exchange, acquisition, reorganization or sale with one or more\nWE products and businesses. Indicali expertise soans across the entire MAAS (Manufacturing-\nAs-A-Service), PAAS (Platform-As-A-Service) and SAAS (Software-As-A-Service) value chain.\nARE Our strategy has been to create and combine with a company or set of companies to take\nadvantage of the local, national and global opportunities created by the transition brought in with entrepreneurship culture and technology changes in the last 10 years primarily but not limited to cryptocurrency ,digital manufacturing and 3D printing,augmented and virtual reality and fintech. Indicali works for people, brings them together, and provides a community that benefits everyone involved.",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Mobile Application Development",
+            "text": "Mobile application development is the process of creating a software application that run strictly on a mobile device. These applications can be pre-installed on mobile devices or is delivered as web applications using server-side or client-side processing to provide an app-like experience within a Web browser for a user. During mobile application development one has to consider hardware specifications, different screen sizes and mobile software. Mobile User Interface is also essential while creating a mobile app. Mobile UI considers screen, constraints, input, contexts and mobility as outlines for design."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Software Development",
+            "text": "Custom software development is the process of creating, designing and maintaining software for a specific set of organizations, functions or users. Custom software development directly aims at a particular defined set of requirements. Application customization, application modernization and application management all comes under custom software development. It can either be performed by in house development team or by an outsourced third party."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Web App Development",
+            "text": "Web application development is the creation of an application program that resides on a server. It is then delivered directly to the user's respective device through internet. In simpler words the cre- ation, building and maintenance of websites is known as Web application development. It con- sists of all the work that takes place in order to make a website look fast paced, amazing and user friendly. A user can easily access the web application development through a web browser like Google Chrome, Safari and many more. Web application development can be effectively done by coding in JavaScript or HTML."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Website Development",
+            "text": "Custom website development is a process of designing and developing a website by keeping in mind about brand uniqueness and customer's needs. Custom website development offers unique features and functionality that can be added to a website which makes a good impression about a brand. In simpler words, custom website development is to create a website which is particularly themed on the basis of client's requirements."
+        }
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "Kotdwar,Uttarakhand ",
+        "phone": "+918759986818",
+        "email": "work@indicalitech.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
